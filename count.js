@@ -1,3 +1,3 @@
-function count(){
-console.log(3);
+function count(parameter){
+console.log(`Counting the countless ${parameter}`);
 }
