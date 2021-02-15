@@ -1,7 +1,7 @@
 'use strict';
 
-function great(name) {
-  console.log(name);
+function greet() {
+  console.log('Greetings!');
 };
 
 great('Mark');
