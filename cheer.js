@@ -1,5 +1,5 @@
 'use strict';
 
-let cheer = () => {
-  console.log('JavaScript');
+let cheer = (x, y) => {
+  console.log(x + y);
 }
