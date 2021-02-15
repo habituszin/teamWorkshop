@@ -1,3 +1,3 @@
-function count(){
-console.log(3);
+function count(number, otherNumber){
+console.log(number, otherNumber);
 }
