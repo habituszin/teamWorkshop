@@ -1,5 +1,5 @@
 'use strict';
 
-function greet(great, name) {
-  console.log(great + name);
+function greet(parameter) {
+  console.log(`Greeting for the ${parameter}`);
 };
