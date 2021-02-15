@@ -1,5 +1,5 @@
 'use strict';
 
-let cheer = () => {
-  console.log('JavaScript');
+let cheer = (teamName) => {
+  console.log(`Cheer for the ${teamNameg}`);
 }
